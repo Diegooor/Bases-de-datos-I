@@ -1,4 +1,6 @@
-# Bases-de-datos-I
+# Institución Universitaria Pascual Bravo
+
+# Bases-de-datos-I (Grupo 100) 2025-2
 
 ## 📘 Tarea 02 
 

@@ -1,6 +1,6 @@
 # Bases-de-datos-I
 
-# 📘 Tarea 02 
+## 📘 Tarea 02 
 
 Este repositorio contiene el desarrollo de la **Tarea 02**, la cual forma parte del **modelo conceptual de una base de datos relacional**.  
 

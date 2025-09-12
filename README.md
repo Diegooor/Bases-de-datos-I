@@ -27,7 +27,7 @@ Algunos de sus puntos más relevantes son:
 Documento en **Word** que contiene:  
 - La **solución a la tarea** propuesta sobre el modelo conceptual.  
 - Actividades relacionadas con el **diseño del modelo conceptual**.  
-- **Diagrama ER (Modelo Chen)** detallando entidades, atributos, cardinalidades y relaciones.
+- **Diagrama ER (Modelo Chen)** detallando entidades,cardinalidades y relaciones.
 
 ---
 

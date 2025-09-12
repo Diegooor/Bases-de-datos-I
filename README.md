@@ -1,9 +1,9 @@
 # Bases-de-datos-I
 
-# 📘 Tarea 02 – Modelo Conceptual de Base de Datos
+# 📘 Tarea 02 
 
 Este repositorio contiene el desarrollo de la **Tarea 02**, la cual forma parte del **modelo conceptual de una base de datos relacional**.  
-El objetivo de este trabajo es diseñar un **diagrama entidad-relación (ER)** utilizando el **Modelo Chen**, donde se representen de manera clara **entidades, atributos, relaciones y cardinalidades**.
+
 
 ---
 

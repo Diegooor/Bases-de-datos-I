@@ -1,6 +1,7 @@
 # Institución Universitaria Pascual Bravo
 
 ## Bases-de-datos-I (Grupo 100) 2025-2
+### Integrante : Diego Ordoñez
 
 ## 📘 Tarea 02 
 

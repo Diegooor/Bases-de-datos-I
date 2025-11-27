@@ -3,8 +3,8 @@
 -- SCRIPTS DE CONSULTAS BÁSICAS (SELECT sin JOIN)
 --
 -- Miembros del grupo
---
---
+--Diego Ordoñez
+--Juan Camilo Valencia
 --
 
 --

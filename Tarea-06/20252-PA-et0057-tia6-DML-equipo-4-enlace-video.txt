@@ -1,5 +1,5 @@
 --
--- Tarea 5 - Parte #1 del Proyecto de Aula
+-- Tarea 6 - Parte #2 del Proyecto de Aula
 -- ENLACE A VIDEO (youtube, vimeo, drive de google, entre otros.
 --
 -- Miembros del grupo

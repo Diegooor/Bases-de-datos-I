@@ -3,7 +3,7 @@
 **Programa:** Tecnología en Desarrollo de Software  
 **Curso:** Base de Datos I (ET0057)  
 **Profesor:** Jaime E. Soto U.
-**Grupo: #4
+**Grupo: #4**
 
 ---
 

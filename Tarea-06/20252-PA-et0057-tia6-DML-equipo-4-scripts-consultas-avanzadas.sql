@@ -3,8 +3,8 @@
 -- SCRIPTS DE CONSULTAS AVANZADAS (SELECT con JOIN)
 --
 -- Miembros del grupo
---
---
+--Diego Ordoñez
+--Juan Camilo Valencia
 --
 
 --

@@ -15,6 +15,7 @@ Cada carpeta corresponde a una de las tareas solicitadas en clase.
 
 ## 👥 Miembro del Equipo  
 
-- **Diego Ordoñez**  
+- **Diego Ordoñez**
+- **Juan Camilo Valencia**   
 
 
